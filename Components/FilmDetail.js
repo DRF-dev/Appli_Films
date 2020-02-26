@@ -34,6 +34,8 @@ class FilmDetail extends React.Component {
 
     this._toggleFavorite = this._toggleFavorite.bind(this)
     this._shareFilm = this._shareFilm.bind(this)
+    //On bind notre nos film_vue
+    this._toggleVue = this._toggleVue.bind(this)
   }
 
   _updateNavigationParams() {
@@ -45,9 +47,17 @@ class FilmDetail extends React.Component {
 
   componentDidMount() {
     const favoriteFilmIndex = this.props.favoritesFilm.findIndex(item => item.id === this.props.navigation.state.params.idFilm)
+    const vueIndex = this.props.filmVue.findIndex(item => item.id === this.props.navigation.state.params.idFilm)
     if (favoriteFilmIndex !== -1) {
       this.setState({
         film: this.props.favoritesFilm[favoriteFilmIndex]
+      }, () => { this._updateNavigationParams() })
+      return
+    }
+    //On met a jour notre state
+    if (vueIndex !== -1) {
+      this.setState({
+        film: this.props.filmVue[vueIndex]
       }, () => { this._updateNavigationParams() })
       return
     }
@@ -75,6 +85,12 @@ class FilmDetail extends React.Component {
     this.props.dispatch(action)
   }
 
+  _toggleVue() {
+    //On créer notre toggle qui nous permettra d'envoyer notre state à notre reducer
+    const action = { type: "TOGGLE_VUE", value: this.state.film }
+    this.props.dispatch(action)
+  }
+
   _displayFavoriteImage() {
     var sourceImage = require('../Images/ic_favorite_border.png')
     var shouldEnlarge = false // Par défaut, si le film n'est pas en favoris, on veut qu'au clic sur le bouton, celui-ci s'agrandisse => shouldEnlarge à true
@@ -90,6 +106,17 @@ class FilmDetail extends React.Component {
           source={sourceImage}
         />
       </EnlargeShrink>
+    )
+  }
+
+  //On change le texte du boutons selon si on a vue ou non le film
+  _boutonVueOuNonVue() {
+    console.log(this.props.filmVue.findIndex(item => item.id === this.state.film.id))
+    if (this.props.filmVue.findIndex(item => item.id === this.state.film.id) !== -1) {
+      return <Button title="Film vue" onPress={() => this._toggleVue() }/>
+    }
+    return (
+      <Button title="Film non-vue" onPress={() => this._toggleVue() }/>
     )
   }
 
@@ -121,6 +148,8 @@ class FilmDetail extends React.Component {
               return company.name;
             }).join(" / ")}
           </Text>
+          {/*On ajoute notre bouton pour nous permettre de dire que l'on a vu le film*/}
+          {this._boutonVueOuNonVue()}
         </ScrollView>
       )
     }
@@ -230,7 +259,8 @@ const styles = StyleSheet.create({
 
 const mapStateToProps = (state) => {
   return {
-    favoritesFilm: state.favoritesFilm
+    favoritesFilm: state.toggleFavorite.favoritesFilm,
+    filmVue: state.toggleVue.filmVue
   }
 }
 

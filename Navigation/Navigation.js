@@ -9,6 +9,8 @@ import FilmDetail from '../Components/FilmDetail'
 import Favorites from '../Components/Favorites'
 import { StyleSheet, Image } from 'react-native'
 import Test from '../Components/Test'
+import News from '../Components/New'
+import Vues from '../Components/Vues'
 
 const SearchStackNavigator = createStackNavigator({
   Search: {
@@ -34,6 +36,30 @@ const FavoritesStackNavigator = createStackNavigator({
   }
 })
 
+const NewsStackNavigator = createStackNavigator({
+  News: {
+    screen: News,
+    navigationOptions: {
+      title: 'Les Derniers Films',
+    },
+  },
+  FilmDetail: {
+    screen: FilmDetail,
+  }
+})
+
+const FilmVueStackNavigator = createStackNavigator({
+  Vues: {
+    screen: Vues,
+    navigationOptions: {
+      title: 'Film déja vue',
+    },
+  },
+  FilmDetail: {
+    screen: FilmDetail,
+  }
+})
+
 const MoviesTabNavigator = createBottomTabNavigator(
   {
     Search: {
@@ -55,10 +81,30 @@ const MoviesTabNavigator = createBottomTabNavigator(
             style={styles.icon}/>
         }
       }
+    },
+    News: {
+      screen: NewsStackNavigator,
+      navigationOptions: {
+        tabBarIcon: () => {
+          return <Image
+            source={require('../Images/ic_fiber_new.png')}
+            style={styles.icon}/>
+        }
+      }
     }/*,
     Test: {
       screen: Test
-    }*/
+    }*/,
+    Vues: {
+      screen: FilmVueStackNavigator,
+      navigationOptions: {
+        tabBarIcon: () => {
+          return <Image
+            source={require('../Images/image1.png')}
+            style={styles.icon}/>
+        }
+      }
+    }
   },
   {
     tabBarOptions: {

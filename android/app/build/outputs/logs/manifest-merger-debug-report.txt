@@ -1,0 +1,533 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from [:@react-native-community_async-storage] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-safe-area-context] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1a80de6647214246a3da37e2a956c3cc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\e66ab12cace3de327799653cb1b1beb2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\f8e0a96b6f5ca9a02f465cc9b7632fd4\AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\14e567b3e3c56281a0ed22c95da9a18a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\e856738f5be0259410bb116582361ded\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\479808be38e511f2692925576f0c95f9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\07c0592c1f812acce975e0b841f514db\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\3094650f50a4f110694b18772bedd552\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\0f637f3c29bb135a6428e91fc22cef07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\51bece79ecf2d2ac9e321e30f570170c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\cc02f3542f71d8c722ea492802ada541\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f122ae4cc69e027f728f0ec623c26ce0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\40f935076cc7bcb243356294a5404bab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\284ae50e8018d14e393568e40c60310e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\514d7d97075fa60e9dea99ec14f6ffdb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\b515f8e25f03ce646abcd929845c2a4f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\30dd2256f4e17d8bc6b15b95a3debf7d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\fb2017228541bae8f11fc3d40591ed9d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\2562260c05d6b3da2ffde7e2d69488fe\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\e2fde6a099ca2b4b394df2a95767c1ca\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ea61884efaf8bf3de61442b4c25cc610\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\7eb33211f6a021865965a4af79b7718a\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\a704b5b5640591662c7ca59ec60c8d65\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f3b6ea242fe8c42e956075d6988ec988\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\e7110a89825d35723e1db74686d62d51\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\196af76b5ffc33aee81b5e9d9604a17a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4589589fb7aba7a790d58558187cfcc0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\55a5ee36ea4b3526a4225bdf1df1f279\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\8017ee8a17d7393a969a689bf4361260\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9d94c4f297ee5a9fc878242195392d96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\97f21a233355fcef98ccfacaef75a3e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0f3746943177685fdbeff3616f8fb281\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\27ca296901ff8f16ffbf1cb0bcee5827\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\092df319d7cfee735301fa8132bf5844\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\a440b9d792e5bb3caa04d53ecf5fab2d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\8147d0ae54b86751830b67460bbecdc6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14cd36f21a67806f343132629fa1ac11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e6ec3c11b219a443b758e4e0a74a461\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\bfa81baf745f6c30f911703c519af832\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\e418561f3ffa95720f51220b171322aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\646e1fa58db311f362dbe7f1b8d56b86\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\7846a4affe5b889693082d605ce28e3a\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6f53af87bd6f79c0a4a5a201c35e795e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\15f7a8bc2e612bb957291add8675b695\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\9b5eda0bb5843e4fe146c4aa46c3573e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\b57c1032ce92f47c83de50e76a8f56b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\b914b23ad8c3cb50008be98688047744\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\a7bce799df5fde8448318cc63da6049f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\59ae194c9ecf3f2549eeaf7287bfa523\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c7209af9760809dee118730b8c970ac7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\2b45475a07bd25759b1e27d87b0cf5c0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\2d6f464cbdbe332634fb97d57b222865\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+	package
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:2:5-22
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:9:5-80
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:15:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:20:5-81
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:21:5-79
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:23:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:25:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:26:5-80
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:26:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:27:22-68
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:29:22-70
+application
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:32:5-50:19
+MERGED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1a80de6647214246a3da37e2a956c3cc\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1a80de6647214246a3da37e2a956c3cc\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\e66ab12cace3de327799653cb1b1beb2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\e66ab12cace3de327799653cb1b1beb2\AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\e856738f5be0259410bb116582361ded\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\e856738f5be0259410bb116582361ded\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\479808be38e511f2692925576f0c95f9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\479808be38e511f2692925576f0c95f9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\07c0592c1f812acce975e0b841f514db\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\07c0592c1f812acce975e0b841f514db\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ea61884efaf8bf3de61442b4c25cc610\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ea61884efaf8bf3de61442b4c25cc610\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\7eb33211f6a021865965a4af79b7718a\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\7eb33211f6a021865965a4af79b7718a\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\a704b5b5640591662c7ca59ec60c8d65\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\a704b5b5640591662c7ca59ec60c8d65\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e6ec3c11b219a443b758e4e0a74a461\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e6ec3c11b219a443b758e4e0a74a461\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\7846a4affe5b889693082d605ce28e3a\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\7846a4affe5b889693082d605ce28e3a\AndroidManifest.xml:24:5-25:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e6ec3c11b219a443b758e4e0a74a461\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:34:7-39
+	android:roundIcon
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:36:7-52
+	android:icon
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:35:7-41
+	android:allowBackup
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:37:7-34
+	android:theme
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:38:7-38
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:33:7-38
+activity#com.app.MainActivity
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:39:7-48:18
+	android:label
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:41:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:43:9-51
+	android:configChanges
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:42:9-79
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:40:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:44:9-47:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:45:13-65
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:45:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:46:13-73
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:46:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:49:7-84
+	android:name
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml:49:17-81
+uses-sdk
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1a80de6647214246a3da37e2a956c3cc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\1a80de6647214246a3da37e2a956c3cc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\e66ab12cace3de327799653cb1b1beb2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\e66ab12cace3de327799653cb1b1beb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\f8e0a96b6f5ca9a02f465cc9b7632fd4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\f8e0a96b6f5ca9a02f465cc9b7632fd4\AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\14e567b3e3c56281a0ed22c95da9a18a\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\14e567b3e3c56281a0ed22c95da9a18a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\e856738f5be0259410bb116582361ded\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\e856738f5be0259410bb116582361ded\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\479808be38e511f2692925576f0c95f9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\479808be38e511f2692925576f0c95f9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\07c0592c1f812acce975e0b841f514db\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\07c0592c1f812acce975e0b841f514db\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\3094650f50a4f110694b18772bedd552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\3094650f50a4f110694b18772bedd552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\0f637f3c29bb135a6428e91fc22cef07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\0f637f3c29bb135a6428e91fc22cef07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\51bece79ecf2d2ac9e321e30f570170c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\51bece79ecf2d2ac9e321e30f570170c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\cc02f3542f71d8c722ea492802ada541\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\cc02f3542f71d8c722ea492802ada541\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f122ae4cc69e027f728f0ec623c26ce0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f122ae4cc69e027f728f0ec623c26ce0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\40f935076cc7bcb243356294a5404bab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\40f935076cc7bcb243356294a5404bab\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\284ae50e8018d14e393568e40c60310e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\284ae50e8018d14e393568e40c60310e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\514d7d97075fa60e9dea99ec14f6ffdb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\514d7d97075fa60e9dea99ec14f6ffdb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\b515f8e25f03ce646abcd929845c2a4f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\b515f8e25f03ce646abcd929845c2a4f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\30dd2256f4e17d8bc6b15b95a3debf7d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\30dd2256f4e17d8bc6b15b95a3debf7d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\fb2017228541bae8f11fc3d40591ed9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\fb2017228541bae8f11fc3d40591ed9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\2562260c05d6b3da2ffde7e2d69488fe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\2562260c05d6b3da2ffde7e2d69488fe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\e2fde6a099ca2b4b394df2a95767c1ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\e2fde6a099ca2b4b394df2a95767c1ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ea61884efaf8bf3de61442b4c25cc610\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ea61884efaf8bf3de61442b4c25cc610\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\7eb33211f6a021865965a4af79b7718a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\7eb33211f6a021865965a4af79b7718a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\a704b5b5640591662c7ca59ec60c8d65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\a704b5b5640591662c7ca59ec60c8d65\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f3b6ea242fe8c42e956075d6988ec988\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f3b6ea242fe8c42e956075d6988ec988\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\e7110a89825d35723e1db74686d62d51\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\e7110a89825d35723e1db74686d62d51\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\196af76b5ffc33aee81b5e9d9604a17a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\196af76b5ffc33aee81b5e9d9604a17a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4589589fb7aba7a790d58558187cfcc0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4589589fb7aba7a790d58558187cfcc0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\55a5ee36ea4b3526a4225bdf1df1f279\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\55a5ee36ea4b3526a4225bdf1df1f279\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\8017ee8a17d7393a969a689bf4361260\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\8017ee8a17d7393a969a689bf4361260\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9d94c4f297ee5a9fc878242195392d96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9d94c4f297ee5a9fc878242195392d96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\97f21a233355fcef98ccfacaef75a3e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\97f21a233355fcef98ccfacaef75a3e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0f3746943177685fdbeff3616f8fb281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0f3746943177685fdbeff3616f8fb281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\27ca296901ff8f16ffbf1cb0bcee5827\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\27ca296901ff8f16ffbf1cb0bcee5827\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\092df319d7cfee735301fa8132bf5844\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\092df319d7cfee735301fa8132bf5844\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\a440b9d792e5bb3caa04d53ecf5fab2d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\a440b9d792e5bb3caa04d53ecf5fab2d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\8147d0ae54b86751830b67460bbecdc6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\8147d0ae54b86751830b67460bbecdc6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14cd36f21a67806f343132629fa1ac11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14cd36f21a67806f343132629fa1ac11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e6ec3c11b219a443b758e4e0a74a461\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e6ec3c11b219a443b758e4e0a74a461\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\bfa81baf745f6c30f911703c519af832\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\bfa81baf745f6c30f911703c519af832\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\e418561f3ffa95720f51220b171322aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\e418561f3ffa95720f51220b171322aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\646e1fa58db311f362dbe7f1b8d56b86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\646e1fa58db311f362dbe7f1b8d56b86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\7846a4affe5b889693082d605ce28e3a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\7846a4affe5b889693082d605ce28e3a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6f53af87bd6f79c0a4a5a201c35e795e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6f53af87bd6f79c0a4a5a201c35e795e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\15f7a8bc2e612bb957291add8675b695\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\15f7a8bc2e612bb957291add8675b695\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\9b5eda0bb5843e4fe146c4aa46c3573e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\9b5eda0bb5843e4fe146c4aa46c3573e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\b57c1032ce92f47c83de50e76a8f56b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\b57c1032ce92f47c83de50e76a8f56b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\b914b23ad8c3cb50008be98688047744\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\b914b23ad8c3cb50008be98688047744\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\a7bce799df5fde8448318cc63da6049f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\a7bce799df5fde8448318cc63da6049f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\59ae194c9ecf3f2549eeaf7287bfa523\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\59ae194c9ecf3f2549eeaf7287bfa523\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c7209af9760809dee118730b8c970ac7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c7209af9760809dee118730b8c970ac7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\2b45475a07bd25759b1e27d87b0cf5c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\2b45475a07bd25759b1e27d87b0cf5c0\AndroidManifest.xml:20:5-44
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\2d6f464cbdbe332634fb97d57b222865\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\2d6f464cbdbe332634fb97d57b222865\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\android\app\src\main\AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] C:\Users\danyf\OneDrive\Bureau\Cours\Openclassroom\Javascript\react_native\ExpoTestCorrectBug\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\b3bdf323cd1680c8946a40ffb7ee5050\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\c693c8f49562ef9cdd96726d7b40c26f\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\danyf\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\40b7e2c34168de974be1f211aa23c395\AndroidManifest.xml:26:13-120
